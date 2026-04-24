@@ -59,4 +59,4 @@ end
 softAntiLag()
 setSunsetSky()
 
-print("✅ Anti-lag aplicado y cielo de atardecer activado.")
+print("Anti Lag ทำงาน")
